@@ -19,6 +19,7 @@ public class Account {
     private Long id;
     private Long accountNumber;
     private String accountHolderName;
+    private String accountType;
     private Double accountBalance;
 
 }
